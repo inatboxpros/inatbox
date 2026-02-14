@@ -1,4 +1,4 @@
-# inatbox
+# inat box
 İnat tv, inat box, inat tv pro, inat tv link, inat tv indir
 
 İnat TV İndir - Orijinal İnat TV
