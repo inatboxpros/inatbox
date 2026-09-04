@@ -5,9 +5,8 @@
 
 İnat BOX
 
-https://www.virustotal.com/gui/file/918eb87af81e92709d872621ea8ed0c086e38fbdf48a5e5ebdcab190f41bd07b?nocache=1
-
+https://www.virustotal.com/gui/file/5365a3fc0d4184957ed91ef3df8373966ffab25d6edc5ebee142cabccead427d
 
 İnat TV PRO
 
-https://www.virustotal.com/gui/file/3d5f90c7816bf2960466b1ea6a4b7498feb08fd7d9218f62c8bd7710840622c7
+Güncellenecek...
