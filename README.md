@@ -8,8 +8,8 @@ Kurulum ekranlarının adları telefonun markasına ve Android sürümüne göre
 
 ## İndirme bağlantıları
 
-- **İnat Box indir:** [İnat Box indir](https://github.com/inatboxpros/inatbox/raw/refs/heads/main/inat-box-v16.apk)
-- **İnat TV indir:** [İnat TV indir](https://github.com/inatboxpros/inatbox/raw/refs/heads/main/inat-box-v16.apk)
+- **İnat Box indir:** [İnat Box v16 apk indir](https://github.com/inatboxpros/inatbox/raw/refs/heads/main/inat-box-v16.apk)
+- **İnat TV indir:** [İnat TV box v16 indir](https://github.com/inatboxpros/inatbox/raw/refs/heads/main/inat-box-v16.apk)
 
 Kurulum için ilk kez geliyorsanız aşağıdaki hazırlık bölümünden başlayabilirsiniz. Uygulama telefonunuzda yüklüyse güncelleme açıklamalarına, bir hata yaşıyorsanız sorun giderme bölümüne geçin. Sayfa içinde arama yapmak için telefon tarayıcınızın “Sayfada bul” seçeneğini de kullanabilirsiniz.
 
