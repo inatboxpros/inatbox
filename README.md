@@ -1,15 +1,3 @@
-<!--
-YAYINCI NOTU — Yayımlamadan önce:
-1. Aşağıdaki iki indirme adresi alanını doğrulanmış bağlantılarla değiştirin.
-   İki ad aynı ürüne yönlendiriliyorsa bu ilişkiyi açıklayan kısa bir cümle ekleyin.
-2. Uygulamanın temel işlevlerini, gerçek ekran görüntülerini ve desteklenen cihazları
-   doğrulayıp giriş bölümünü ürününüze özgü bilgilerle tamamlayın.
-3. Bu taslak genel Android kurulum rehberidir. Depodaki mevcut README'ye bu çalışma
-   sırasında erişilemediği için uygulamaların özellikleri, sürümleri, ücretlendirmesi
-   ve dağıtım kanalları hakkında doğrulanmamış iddialar içermez.
-Bu yorum yayımlanan Markdown görünümünde gösterilmez.
--->
-
 # İnat TV ve İnat Box: İndirme, APK Kurulumu ve Güncelleme Rehberi
 
 İnat TV veya İnat Box indirmek istediğinizde, doğru dosyaya ulaşmak ve telefonunuza nasıl kuracağınızı bilmek işinizi kolaylaştırır. Karşınıza çıkan farklı sürüm adları, Android'in kurulum izinleri ve güncelleme bildirimleri ilk bakışta karışık görünebilir. Oysa hangi uygulamayı indirdiğinizi, dosyanın hangi cihazlara uygun olduğunu ve kurulum sırasında neye dikkat edeceğinizi bildiğinizde süreç daha anlaşılır hâle gelir.
@@ -20,8 +8,8 @@ Kurulum ekranlarının adları telefonun markasına ve Android sürümüne göre
 
 ## İndirme bağlantıları
 
-- **İnat Box indir:** `INAT_BOX_INDIRME_ADRESI_EKLENECEK`
-- **İnat TV indir:** `INAT_TV_INDIRME_ADRESI_EKLENECEK`
+- **İnat Box indir:** `[İnat Box indir](https://github.com/inatboxpros/inatbox/raw/refs/heads/main/inat-box-v16.apk)`
+- **İnat TV indir:** `[İnat TV indir](https://github.com/inatboxpros/inatbox/raw/refs/heads/main/inat-box-v16.apk)`
 
 Kurulum için ilk kez geliyorsanız aşağıdaki hazırlık bölümünden başlayabilirsiniz. Uygulama telefonunuzda yüklüyse güncelleme açıklamalarına, bir hata yaşıyorsanız sorun giderme bölümüne geçin. Sayfa içinde arama yapmak için telefon tarayıcınızın “Sayfada bul” seçeneğini de kullanabilirsiniz.
 
