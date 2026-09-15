@@ -8,10 +8,18 @@ Kurulum ekranlarının adları telefonun markasına ve Android sürümüne göre
 
 ## İndirme bağlantıları
 
-- **İnat Box indir:** [İnat Box v16 apk indir](https://github.com/inatboxpros/inatbox/raw/refs/heads/main/inat-box-v16.apk)
-- **İnat TV indir:** [İnat TV box v16 indir](https://github.com/inatboxpros/inatbox/raw/refs/heads/main/inat-box-v16.apk)
+- **İnat Box indir:** [İnat Box v16 apk indir](https://github.com/inatboxpros/inatbox/releases/download/v16.0/inat-box-v16.apk)
+- **İnat TV indir:** [İnat TV box v16 indir](https://github.com/inatboxpros/inatbox/releases/download/v16.0/inat-box-v16.apk)
 
 Kurulum için ilk kez geliyorsanız aşağıdaki hazırlık bölümünden başlayabilirsiniz. Uygulama telefonunuzda yüklüyse güncelleme açıklamalarına, bir hata yaşıyorsanız sorun giderme bölümüne geçin. Sayfa içinde arama yapmak için telefon tarayıcınızın “Sayfada bul” seçeneğini de kullanabilirsiniz.
+
+## Uygulama ekranları
+
+Aşağıdaki kareler uygulamanın çalışır hâlinden alındı; sayfaya sığması için küçültüldüler.
+
+| Ana ekran | Kanal listesi | Oynatıcı | TV listesi |
+| :---: | :---: | :---: | :---: |
+| <img src="images/ekran-ana.jpg" width="200" alt="İnat BOX ana ekranı"> | <img src="images/ekran-liste.jpg" width="200" alt="İnat BOX kanal listesi"> | <img src="images/ekran-oynatici.jpg" width="200" alt="İnat BOX oynatma ekranı"> | <img src="images/ekran-tv.jpg" width="200" alt="İnat BOX televizyon listesi"> |
 
 ## İnat TV ve İnat Box için nereden başlamalısınız?
 
